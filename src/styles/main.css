@@ -1,0 +1,12 @@
+.login-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("https://i.redd.it/jeuusd992wd41.jpg") ;
+}
+
+form {
+    background-color: white;
+    border-radius: 15px;
+}
