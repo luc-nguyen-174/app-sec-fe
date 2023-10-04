@@ -5,9 +5,11 @@
 <script>
 
 
+import BoCongAn from "@/views/BoCongAn.vue";
+
 export default {
     name: 'LayoutDefault',
-    components: {},
+    components: {BoCongAn},
     setup() {
         return {}
     }
